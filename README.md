@@ -5,7 +5,7 @@ This repository contains various image processing implementations using Python. 
 🛠️ Required Libraries
 Before running the codes, make sure you have the following libraries installed:
 ```
-pip install numpy opencv-python matplotlib
+pip install numpy opencv-python matplotlib pillow
 ```
 
 
